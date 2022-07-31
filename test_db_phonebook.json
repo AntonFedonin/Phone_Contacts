@@ -1,0 +1,90 @@
+[
+    {
+        "Contact_id": 1,
+        "Name_of_the_contact": "Ischuk Andrey Nikolaevich",
+        "Phone": "67785993",
+        "Address_of_residence": "Suvorovo st., 30/4",
+        "Comment": "classmate",
+        "contact_id": 1
+    },
+    {
+        "Contact_id": 2,
+        "Name_of_the_contact": "Smirnov Alexey Sergeevich",
+        "Phone": "34567889",
+        "Address_of_residence": "Limozha street, 9/37",
+        "Comment": "a colleague",
+        "contact_id": 2
+    },
+    {
+        "Contact_id": 3,
+        "Name_of_the_contact": "Volchek Anton Olegovich",
+        "Phone": "66575859",
+        "Address_of_residence": "Svetlaya st., 14/19",
+        "Comment": " a colleague",
+        "contact_id": 3
+    },
+    {
+        "Contact_id": 4,
+        "Name_of_the_contact": "Sidorenko Pavel Nikolaevich",
+        "Phone": "77899900",
+        "Address_of_residence": "Belusha street, 25/7",
+        "Comment": "friend",
+        "contact_id": 4
+    },
+    {
+        "Contact_id": 6,
+        "Name_of_the_contact": "Sparrow Svetlana Fedorovna",
+        "Phone": "34528282",
+        "Address_of_residence": "Limozha street, 12/7",
+        "Comment": "classmate",
+        "contact_id": 5
+    },
+    {
+        "Contact_id": 7,
+        "Name_of_the_contact": "Kuznetsova Maria Sergeevna",
+        "Phone": "76392567",
+        "Address_of_residence": "Lenin street, 24/9",
+        "Comment": "sister",
+        "contact_id": 6
+    },
+    {
+        "Contact_id": 8,
+        "Name_of_the_contact": "Makarevich Anna Nikolaevna",
+        "Phone": "65563783",
+        "Address_of_residence": "st.Kabyaka 2/27",
+        "Comment": "familiar",
+        "contact_id": 7
+    },
+    {
+        "Contact_id": 9,
+        "Name_of_the_contact": "Ivanov Vasily Stepanovich",
+        "Phone": "83653789",
+        "Address_of_residence": "Tomina 24/6",
+        "Comment": "brother",
+        "contact_id": 8
+    },
+    {
+        "Contact_id": 10,
+        "Name_of_the_contact": "Baglay Alexander Mikhailovich",
+        "Phone": "65557833",
+        "Address_of_residence": "Kurchatovo 8/37",
+        "Comment": "a colleague",
+        "contact_id": 9
+    },
+    {
+        "Contact_id": 11,
+        "Name_of_the_contact": "\u0421\u043d\u0435\u0433\u0438\u0440\u0435\u0432\u0430 \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u043d\u0430",
+        "Phone": "76589654",
+        "Address_of_residence": "Sovetscaia 5/13",
+        "Comment": "friend",
+        "contact_id": 10
+    },
+    {
+        "Contact_id": 12,
+        "Name_of_the_contact": "\u0421\u043d\u0435\u0436\u0438\u0446\u043a\u0438\u0439 \u0421\u0435\u0440\u0433\u0435\u0439 \u041e\u043b\u0435\u0433\u043e\u0432\u0438\u0447",
+        "Phone": "87645889",
+        "Address_of_residence": "Druzhnaia 56/7",
+        "Comment": "friend",
+        "contact_id": 11
+    }
+]
